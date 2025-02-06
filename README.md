@@ -10,7 +10,7 @@ Undergrad student at [Saint Mary's University][smu].
 -   🎨 [Pixel Art][ig_profile] enthusiast
 -   🔭 Working on writing [a blog][cy_blog].
 -   📫 How to reach me: [![Email][img_email]][email] [![LinkedIn][img_linkedin]][linkedin] [![Discord][img_discord]][discord] [![Telegram][img_telegram]][telegram]
--   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [NixOS][nix_os] with XFCE and BSPWM. Currently using [macOS][macos] with [AeroSpace][aerospace], though.
+-   ⚡ Fun fact: I love [Linux][wiki_linux]! Especially [NixOS][nix_os] with XFCE and BSPWM. Currently using [macOS][macos] with [AeroSpace][aerospace] via [Nix Darwin][nix_darwin], though.
 -   <details><summary>🇵🇸 Tragic fact <i>(click to read)</i></summary><br />Hundreds of thousands of innocent unarmed people, including thousands of children are being killed by the IOF in Palestine. Millions of people are displaced from their homes that have been destroyed by the IOF so they have no home to return to. Many more in the West bank are losing their homes to settler colonialism. Palestinians in both wings, as well as those in the occupied territories live under an oppressive, inhumane, apartheid rule. Genocide and ethnic cleansing is being done to the Palestinians right now as you're reading this. And this has been going on for 75+ years.</details>
 
 ---
@@ -78,6 +78,7 @@ Undergrad student at [Saint Mary's University][smu].
 [nix_os]: https://nixos.org/ "NixOS"
 [pop_os]: https://pop.system76.com/ "Pop!_OS"
 [aerospace]: https://github.com/nikitabobko/AeroSpace "AeroSpace"
+[nix_darwin]: https://github.com/LnL7/nix-darwin "Nix Darwin"
 [macbook_air]: https://www.apple.com/ca/macbook-air/ "Macbook Air on apple.com"
 [macos]: https://www.apple.com/ca/macos/ "MacOS on apple.com"
 [yabai]: https://github.com/koekeishiya/yabai "yabai"
