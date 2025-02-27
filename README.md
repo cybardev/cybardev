@@ -6,9 +6,9 @@
 - 📈 **Interests**: DevOps, Cloud, Cybersecurity, Pixel Art, Nature Photography
 - 🎓 **Education**: B.Sc in Computing Science @ SMU _(Graduated Jan 2025)_
 - 💻 **Experience**: 2 co-op terms, 4 months each
-	- **Junior Software Developer** @ ReelData AI  
+	- _**Junior Software Developer**_ @ ReelData AI  
       **[Python, Kafka, Docker, Video Streams]**
-    - **Research Intern** @ Sensor Technology  
+    - _**Research Intern**_ @ Sensor Technology  
       **[Python, Embedded, Linux, APIs]**
 - ✉️ **Contact**: [LinkedIn][linkedin] | [Email][email] | [Instagram][instagram]
 - 🎉 **Fun Fact**: I love Linux! Especially NixOS. Check out my config here: [nix-dotfiles][nix_config]
