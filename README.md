@@ -6,10 +6,10 @@
 - 📈 **Interests**: DevOps, Cloud, Cybersecurity, Pixel Art, Nature Photography
 - 🎓 **Education**: B.Sc in Computing Science @ SMU _(Graduated Jan 2025)_
 - 💻 **Experience**: 2 co-op terms, 4 months each
-	- **Junior Software Developer** @ ReelData AI _(Summer 2023)_  
+	- **Junior Software Developer** @ ReelData AI  
       **[Python, Kafka, Docker, Video Streams]**
-    - **Research Intern** @ Sensor Technology _(Fall 2023)_  
-      **[Python, Embedded, Linux, APIs, Marine, Monitoring Dashboards]**
+    - **Research Intern** @ Sensor Technology  
+      **[Python, Embedded, Linux, APIs]**
 - ✉️ **Contact**: [LinkedIn][linkedin] | [Email][email] | [Instagram][instagram]
 - 🎉 **Fun Fact**: I love Linux! Especially NixOS. Check out my config here: [nix-dotfiles][nix_config]
 - <details><summary>🇵🇸 Tragic fact <i>(click to read)</i></summary><br />Hundreds of thousands of innocent unarmed people, including thousands of children are being killed by the IOF in Palestine. Millions of people are displaced from their homes that have been destroyed by the IOF so they have no home to return to. Many more in the West bank are losing their homes to settler colonialism. Palestinians in both wings, as well as those in the occupied territories live under an oppressive, inhumane, apartheid rule. Genocide and ethnic cleansing is being done to the Palestinians right now as you're reading this. And this has been going on for 75+ years.</details>
