@@ -19,7 +19,7 @@
 - **Focus**:  
   [![Python][img_python]][python] [![Shell][img_shell]][zsh] [![Go][img_go]][go]
 - **Others**:  
-  Linux, Web Development, Automated Testing, CI/CD, Containers, Kafka, Cloud, Java, JavaScript, Git, Agile, C#, C/C++, SQL, MongoDB, Data Analytics, Game Development
+  Agile, C#, C/C++, CI/CD, Cloud, Containers, Data Analytics, Game Development, Git, Java, JavaScript, Kafka, Linux, MongoDB, SQL, Test Automation, Web Development
 
 <!-- Links -->
 
