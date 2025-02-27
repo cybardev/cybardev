@@ -34,6 +34,6 @@
 
 <!-- Badges -->
 
-[img_python]: https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=3670A0
-[img_go]: https://img.shields.io/badge/-Go-white?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8
-[img_shell]: https://img.shields.io/badge/-Shell-seagreen?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=darkslategrey
+[img_python]: https://img.shields.io/badge/-Python-306998?style=for-the-badge
+[img_go]: https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge
+[img_shell]: https://img.shields.io/badge/-Shell-seagreen?style=for-the-badge
