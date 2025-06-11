@@ -18,7 +18,7 @@
 ## 🎯 Skills
 
 - **Focus**:  
-  [![Python][img_python]][python] [![Shell][img_shell]][zsh] [![Go][img_go]][go]
+  [![Python][img_python]][python] [![Shell][img_shell]][zsh] [![Go][img_go]][go] [![Nix][img_nix]][nix]
 - **Others**:  
   Agile, C#, C/C++, CI/CD, Cloud, Containers, Data Analytics, Game Development, Git, Java, JavaScript, Kafka, Linux, MongoDB, SQL, Test Automation, Web Development
 
@@ -31,10 +31,12 @@
 [nix_config]: https://github.com/cybardev/nix-dotfiles "cybardev/nix-dotfiles"
 [python]: https://www.python.org "Python"
 [go]: https://go.dev/learn "Go"
+[nix]: https://nixos.org "Nix"
 [zsh]: https://www.zsh.org "Zsh"
 
 <!-- Badges -->
 
 [img_python]: https://img.shields.io/badge/-Python-306998?style=for-the-badge
 [img_go]: https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge
+[img_nix]: https://img.shields.io/badge/-Nix-5277C3?style=for-the-badge
 [img_shell]: https://img.shields.io/badge/-Shell-seagreen?style=for-the-badge
