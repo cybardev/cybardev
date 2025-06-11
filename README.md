@@ -18,7 +18,7 @@
 ## 🎯 Skills
 
 - **Focus**:  
-  [![Python][img_python]][python] [![Shell][img_shell]][zsh] [![Go][img_go]][go] [![Nix][img_nix]][nix]
+  [![Python][img_python]][python] [![Go][img_go]][go] [![Nix][img_nix]][nix] [![Shell][img_shell]][zsh]
 - **Others**:  
   Agile, C#, C/C++, CI/CD, Cloud, Containers, Data Analytics, Game Development, Git, Java, JavaScript, Kafka, Linux, MongoDB, SQL, Test Automation, Web Development
 
