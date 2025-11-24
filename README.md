@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-- 📋 **Resume**: [resume.cybar.dev][resume]
+- 📋 **Resume**: [resume.cybar.dev/devops/][resume]
 - 📈 **Interests**: DevOps, Cloud, Cybersecurity, Pixel Art, Nature Photography
 - 🎓 **Education**: B.Sc in Computing Science @ SMU _(Graduated Jan 2025)_
 - 💻 **Experience**: 2 co-op terms, 4 months each
@@ -24,7 +24,7 @@
 
 <!-- Links -->
 
-[resume]: https://resume.cybar.dev "Resume - Sheikh Saad Abdullah"
+[resume]: https://resume.cybar.dev/devops/ "Resume - Sheikh Saad Abdullah"
 [email]: mailto:sheikh@cybar.dev "sheikh@cybar.dev"
 [linkedin]: https://linkedin.com/in/cybardev "Sheikh's LinkedIn"
 [forums]: https://github.com/cybardev/cybardev/discussions "GitHub Discussions"
