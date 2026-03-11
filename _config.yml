@@ -8,7 +8,7 @@ show_links: true
 links:
     linkedin: https://www.linkedin.com/in/cybardev
     github: https://github.com/cybardev
-    blog: https://blog.cybar.dev
+    blog: https://cybar.dev/blog
 
 # Projects
 show_projects: true
